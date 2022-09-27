@@ -1,0 +1,15 @@
+h1 {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-weight: 800;
+}
+
+body {
+    text-align: center;
+}
+
+ul,
+ol,
+li {
+    background-color: #c49ef0;
+}
